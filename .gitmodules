@@ -1,0 +1,3 @@
+[submodule "作业四-git/service-cluster"]
+	path = 作业四-git/service-cluster
+	url = https://github.com/yourusername/service-cluster.git
